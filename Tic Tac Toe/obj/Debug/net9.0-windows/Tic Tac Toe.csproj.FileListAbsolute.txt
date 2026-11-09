@@ -1,0 +1,14 @@
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.AssemblyInfoInputs.cache
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.AssemblyInfo.cs
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.exe
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.deps.json
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.runtimeconfig.json
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.dll
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\bin\Debug\net9.0-windows\Tic Tac Toe.pdb
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.dll
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\refint\Tic Tac Toe.dll
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.pdb
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\Tic Tac Toe.genruntimeconfig.cache
+C:\Users\Ehero\OneDrive - BYU-Idaho\Code\Fall 2026\Tic Tac Toe\obj\Debug\net9.0-windows\ref\Tic Tac Toe.dll
